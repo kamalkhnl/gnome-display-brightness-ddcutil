@@ -1,4 +1,10 @@
-Display Brightness Slider for Gnome Shell
+# GNOME Display Brightness & Contrast (DDCutil)
+
+> Note: This is a personal fork of [daitj/gnome-display-brightness-ddcutil](https://github.com/daitj/gnome-display-brightness-ddcutil).
+>
+> Unlike the original extension, this version modifies the slider logic to adjust both brightness and contrast simultaneously.
+>
+> License: This fork remains under the same GPL-3.0 license. See [LICENSE](LICENSE).
 
 ![screenshot](screenshot.jpg)
 
